@@ -1,0 +1,39 @@
+h1 {
+    font-size: 50px;
+    color: gray;
+    display: flex;
+    justify-content: space-evenly;
+}
+img {
+    height: 200px;
+}
+.top {
+    background-color: cyan;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: flex-center;
+}
+.mid {
+    background-color: plum;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: flex-center;
+}
+.bottom {
+    background-color: silver;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: flex-center;
+}
+.link {
+    font-size: 20px;
+    color: gray;
+    display: flex;
+    justify-content: space-evenly;
+}
